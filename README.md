@@ -209,20 +209,21 @@ OWASP MASTG
 
 ![Root Detection](2.png)
 
----
+
 
 ## 2. Console Frida / Medusa
 
 ![Frida Console](3.png)
 
----
+
 
 ## 3. Bypass confirmé
 
 ![Bypass Confirmed](4.png)
 
----
+
 
 ## 4. Application sur émulateur
 
 ![Emulator](1.png)
+--- 
